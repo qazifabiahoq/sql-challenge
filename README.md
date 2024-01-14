@@ -35,11 +35,12 @@ Explore this folder to find images illustrating the output of each query, provid
 Project Workflow
 
 
+# Tools used: 
+Pg admin and Quickdbd
 
 
 
-
-Usage
+# Usage:
 Execute table.sql to create the required tables in your PostgreSQL database.
 
 Import CSV data into the created tables for analysis.
@@ -47,6 +48,8 @@ Import CSV data into the created tables for analysis.
 Run queries from query.sql to extract valuable insights.
 
 Explore the output_pics folder for visual representations of query results.
+
+
 
 # Project Assigned by University of Toronto Bootcamp Certification Program:
 
