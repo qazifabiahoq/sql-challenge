@@ -35,7 +35,7 @@ Explore this folder to find images illustrating the output of each query, provid
 Project Workflow
 
 
-# Tools used: 
+# Tools Used: 
 Pg admin and Quickdbd
 
 
